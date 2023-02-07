@@ -1,0 +1,5 @@
+# Ignora las siguentes carpetas
+.idea
+__pycache__
+venv
+ 
